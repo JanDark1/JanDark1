@@ -5,9 +5,22 @@
 ## 🚀 Hakkımda
 
 * 🎓 **Eğitim:** Biruni Üniversitesi - Not Ortalaması: 2.87/4.00
-* 🌱 **Odak:** Şu anda yüksek performanslı web mimarileri ve kullanıcı deneyimi üzerine yoğunlaşıyorum.
-* 🤝 **Topluluk:** Google Developer Groups (GDG) Biruni Core Team üyesi ve mentörüyüm.
+* 🌱 **Odak:** Şu anda yüksek performanslı web mimarileri, Node.js ve mobil geliştirme üzerine yoğunlaşıyorum.
+* 🤝 **Topluluk:** Eski Google Developer Groups (GDG) Biruni Core Team üyesi ve mentör.
 * 📫 **İletişim:** [aliyalim8721@gmail.com](mailto:aliyalim8721@gmail.com)
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JanDark1&show_icons=true&locale=en" height="180" alt="JanDark1 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JanDark1&show_icons=true&locale=en&layout=compact" height="180" alt="JanDark1 Top Langs" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanDark1&" alt="JanDark1 Streak" />
+</div>
 
 ---
 
@@ -42,32 +55,12 @@
 
 Bu proje, 100.000'den fazla roman bölümünü sunan ve ağır yük altında bile yüksek erişilebilirlik sağlayan bir web platformudur.
 
-* **Mimari:** API ve CDN'i ayıran çift sunuculu Node.js yapısı.
-* **Performans:** PM2 Cluster modu ile optimize edilmiş kaynak kullanımı.
+* [cite_start]**Mimari:** API ve CDN'i ayıran çift sunuculu Node.js yapısı[cite: 19].
+* [cite_start]**Performans:** PM2 Cluster modu ile optimize edilmiş kaynak kullanımı[cite: 20].
 * **Özellikler:**
-    * VIP üyelik sistemi ve Google OAuth entegrasyonu.
-    * Puppeteer ile geliştirilmiş hata toleranslı "web scraping" motoru.
-    * ClamAV ile virüs taraması ve Backblaze B2 bulut depolama entegrasyonu.
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanDark1&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JanDark1&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanDark1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+    * [cite_start]VIP üyelik sistemi ve Google OAuth entegrasyonu[cite: 21, 22].
+    * [cite_start]Puppeteer ile geliştirilmiş hata toleranslı "web scraping" motoru[cite: 23].
+    * [cite_start]ClamAV ile virüs taraması ve Backblaze B2 bulut depolama entegrasyonu[cite: 25].
 
 ---
 
