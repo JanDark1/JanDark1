@@ -5,7 +5,7 @@
 ## 🚀 Hakkımda
 
 * 🎓 **Eğitim:** Biruni Üniversitesi Mezunu
-* 🌱 **Odak:** Şu anda yüksek performanslı web mimarileri ve kullanıcı deneyimi üzerine yoğunlaşıyorum.
+* 🌱 **Odak:** Şu anda ölçeklenebilir backend sistemleri, web ve mobil uygulama geliştirme süreçlerine odaklanıyorum
 * 🤝 **Topluluk:** Google Developer Groups (GDG) Biruni Core Team'de üye ve mentör olarak görev aldım.
 * 📫 **İletişim:** [aliyalim8721@gmail.com](mailto:aliyalim8721@gmail.com)
 
@@ -55,7 +55,7 @@ Bu proje, 100.000'den fazla roman bölümünü sunan ve ağır yük altında bil
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanDark1&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanDark1&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 100%;" />
 </div>
 
 
