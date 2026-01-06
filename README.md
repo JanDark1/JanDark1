@@ -60,13 +60,17 @@ Bu proje, 100.000'den fazla roman bölümünü sunan ve ağır yük altında bil
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JanDark1&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JanDark1&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanDark1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanDark1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 ---
