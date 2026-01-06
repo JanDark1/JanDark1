@@ -4,9 +4,9 @@
 
 ## 🚀 Hakkımda
 
-* 🎓 **Eğitim:** Biruni Üniversitesi - Not Ortalaması: 2.87/4.00
+* 🎓 **Eğitim:** Biruni Üniversitesi Mezunu
 * 🌱 **Odak:** Şu anda yüksek performanslı web mimarileri ve kullanıcı deneyimi üzerine yoğunlaşıyorum.
-* 🤝 **Topluluk:** Google Developer Groups (GDG) Biruni Core Team üyesi ve mentörüyüm.
+* 🤝 **Topluluk:** Google Developer Groups (GDG) Biruni Core Team'de üye ve mentör olarak görev aldım.
 * 📫 **İletişim:** [aliyalim8721@gmail.com](mailto:aliyalim8721@gmail.com)
 
 ---
@@ -29,6 +29,7 @@
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=white)
 
 ### ⚙️ Araçlar & DevOps
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037B?style=for-the-badge&logo=pm2&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -57,21 +58,6 @@ Bu proje, 100.000'den fazla roman bölümünü sunan ve ağır yük altında bil
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanDark1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JanDark1&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanDark1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
 
 ---
 
