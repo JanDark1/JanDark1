@@ -63,13 +63,6 @@ Bu proje, 100.000'den fazla roman bölümünü sunan ve ağır yük altında bil
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JanDark1&layout=compact&bg_color=0d1117,0d1117,1a1b27&title_color=58a6ff&text_color=8b949e&border_radius=20&border_color=30363d)](https://github.com/JanDark1)
-
-</div>
-
-
-<div align="center">
-
 [![GitHub Streak](https://github-readme-streak-stats-teal-mu.vercel.app?user=JanDark1&theme=dark)](https://github.com/JanDark1)
 
 </div>
